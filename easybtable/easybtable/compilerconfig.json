@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "css/easybtable.css",
+    "inputFile": "css/easybtable.less"
+  },
+  {
+    "outputFile": "js/easybtable.es5.js",
+    "inputFile": "js/easybtable.js"
+  }
+]
