@@ -1,2 +1,224 @@
-﻿/*#region Color */
-/*#end region */
+﻿table.easybtable {
+  border-collapse: collapse;
+  border: solid 1px;
+  border-color: #000000;
+}
+table.easybtable th,
+table.easybtable td {
+  border: solid 1px;
+  border-color: #000000;
+  padding: 5px;
+}
+table.easybtable th {
+  color: #fff;
+  background-color: #000000;
+}
+table.easybtable.skin-red {
+  border-color: #F44336;
+}
+table.easybtable.skin-red th,
+table.easybtable.skin-red td {
+  border-color: #F44336;
+}
+table.easybtable.skin-red th {
+  color: #fff;
+  background-color: #F44336;
+}
+table.easybtable.skin-pink {
+  border-color: #E91E63;
+}
+table.easybtable.skin-pink th,
+table.easybtable.skin-pink td {
+  border-color: #E91E63;
+}
+table.easybtable.skin-pink th {
+  color: #fff;
+  background-color: #E91E63;
+}
+table.easybtable.skin-purple {
+  border-color: #9C27B0;
+}
+table.easybtable.skin-purple th,
+table.easybtable.skin-purple td {
+  border-color: #9C27B0;
+}
+table.easybtable.skin-purple th {
+  color: #fff;
+  background-color: #9C27B0;
+}
+table.easybtable.skin-deeppurple {
+  border-color: #673AB7;
+}
+table.easybtable.skin-deeppurple th,
+table.easybtable.skin-deeppurple td {
+  border-color: #673AB7;
+}
+table.easybtable.skin-deeppurple th {
+  color: #fff;
+  background-color: #673AB7;
+}
+table.easybtable.skin-indigo {
+  border-color: #3F51B5;
+}
+table.easybtable.skin-indigo th,
+table.easybtable.skin-indigo td {
+  border-color: #3F51B5;
+}
+table.easybtable.skin-indigo th {
+  color: #fff;
+  background-color: #3F51B5;
+}
+table.easybtable.skin-blue {
+  border-color: #2196F3;
+}
+table.easybtable.skin-blue th,
+table.easybtable.skin-blue td {
+  border-color: #2196F3;
+}
+table.easybtable.skin-blue th {
+  color: #fff;
+  background-color: #2196F3;
+}
+table.easybtable.skin-lightblue {
+  border-color: #03A9F4;
+}
+table.easybtable.skin-lightblue th,
+table.easybtable.skin-lightblue td {
+  border-color: #03A9F4;
+}
+table.easybtable.skin-lightblue th {
+  color: #fff;
+  background-color: #03A9F4;
+}
+table.easybtable.skin-cyan {
+  border-color: #00BCD4;
+}
+table.easybtable.skin-cyan th,
+table.easybtable.skin-cyan td {
+  border-color: #00BCD4;
+}
+table.easybtable.skin-cyan th {
+  color: #fff;
+  background-color: #00BCD4;
+}
+table.easybtable.skin-teal {
+  border-color: #009688;
+}
+table.easybtable.skin-teal th,
+table.easybtable.skin-teal td {
+  border-color: #009688;
+}
+table.easybtable.skin-teal th {
+  color: #fff;
+  background-color: #009688;
+}
+table.easybtable.skin-green {
+  border-color: #4CAF50;
+}
+table.easybtable.skin-green th,
+table.easybtable.skin-green td {
+  border-color: #4CAF50;
+}
+table.easybtable.skin-green th {
+  color: #fff;
+  background-color: #4CAF50;
+}
+table.easybtable.skin-lightgreen {
+  border-color: #8BC34A;
+}
+table.easybtable.skin-lightgreen th,
+table.easybtable.skin-lightgreen td {
+  border-color: #8BC34A;
+}
+table.easybtable.skin-lightgreen th {
+  color: #fff;
+  background-color: #8BC34A;
+}
+table.easybtable.skin-lime {
+  border-color: #CDDC39;
+}
+table.easybtable.skin-lime th,
+table.easybtable.skin-lime td {
+  border-color: #CDDC39;
+}
+table.easybtable.skin-lime th {
+  color: #fff;
+  background-color: #CDDC39;
+}
+table.easybtable.skin-yellow {
+  border-color: #FFEB3B;
+}
+table.easybtable.skin-yellow th,
+table.easybtable.skin-yellow td {
+  border-color: #FFEB3B;
+}
+table.easybtable.skin-yellow th {
+  color: #fff;
+  background-color: #FFEB3B;
+}
+table.easybtable.skin-amber {
+  border-color: #FFC107;
+}
+table.easybtable.skin-amber th,
+table.easybtable.skin-amber td {
+  border-color: #FFC107;
+}
+table.easybtable.skin-amber th {
+  color: #fff;
+  background-color: #FFC107;
+}
+table.easybtable.skin-orange {
+  border-color: #FF9800;
+}
+table.easybtable.skin-orange th,
+table.easybtable.skin-orange td {
+  border-color: #FF9800;
+}
+table.easybtable.skin-orange th {
+  color: #fff;
+  background-color: #FF9800;
+}
+table.easybtable.skin-deeporange {
+  border-color: #FF5722;
+}
+table.easybtable.skin-deeporange th,
+table.easybtable.skin-deeporange td {
+  border-color: #FF5722;
+}
+table.easybtable.skin-deeporange th {
+  color: #fff;
+  background-color: #FF5722;
+}
+table.easybtable.skin-brown {
+  border-color: #795548;
+}
+table.easybtable.skin-brown th,
+table.easybtable.skin-brown td {
+  border-color: #795548;
+}
+table.easybtable.skin-brown th {
+  color: #fff;
+  background-color: #795548;
+}
+table.easybtable.skin-gray {
+  border-color: #9E9E9E;
+}
+table.easybtable.skin-gray th,
+table.easybtable.skin-gray td {
+  border-color: #9E9E9E;
+}
+table.easybtable.skin-gray th {
+  color: #fff;
+  background-color: #9E9E9E;
+}
+table.easybtable.skin-bluegray {
+  border-color: #607D8B;
+}
+table.easybtable.skin-bluegray th,
+table.easybtable.skin-bluegray td {
+  border-color: #607D8B;
+}
+table.easybtable.skin-bluegray th {
+  color: #fff;
+  background-color: #607D8B;
+}
